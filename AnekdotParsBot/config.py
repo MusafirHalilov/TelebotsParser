@@ -1,3 +1,3 @@
-TOKEN_API = '6529115565:AAE_MR3sRnvsSwIDS47uvjpHy4Boi-wCv_U'
-# channel_id = '-1001660243037'
-channel_id = '-1001786124227'
+TOKEN_API = ''
+# channel_id = ''
+channel_id = ''
