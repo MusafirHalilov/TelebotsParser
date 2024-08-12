@@ -1,0 +1,2 @@
+TOKEN_API = '6529115565:AAE_MR3sRnvsSwIDS47uvjpHy4Boi-wCv_U'
+channel_id = '-1001660243037'
